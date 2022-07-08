@@ -1,5 +1,5 @@
  <b>Hi I'm Aarushi</b><br>
-👋 I'm a third year Computer Science Engineering major <br>
+👋 I'm a final year Computer Science Engineering major <br>
  <!--webdeveloper + ui/ux leverage section on my work -->
 🌱 I’m currently learning Async JS, React and Python <br>
 ☕ I’m looking to collaborate on beginner & intermediate web development projects <br>
